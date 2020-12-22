@@ -1,0 +1,354 @@
+[
+    {
+        "Befehlsgeräte (BG)": "Not-Halt",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJUV",
+        "Index": "1"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJT",
+        "Index": "2"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJN",
+        "Index": "3"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJWAL_KL",
+        "Index": "4"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJSSA15",
+        "Index": "5"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "M",
+        "Type": "RRJSSA18",
+        "Index": "6"
+    },
+    {
+        "Befehlsgeräte (BG)": "Not-Halt",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "FRVKZ",
+        "Index": "7"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "ST",
+        "Index": "8"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "SN",
+        "Index": "9"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "SWA",
+        "Index": "10"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "SSSA15",
+        "Index": "11"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "M",
+        "Type": "SSSA18",
+        "Index": "12"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "M",
+        "Type": "ST",
+        "Index": "13"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "M",
+        "Type": "SWA",
+        "Index": "14"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "M",
+        "Type": "SSSA15",
+        "Index": "15"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "M",
+        "Type": "SSSA18",
+        "Index": "16"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "S",
+        "Type": "RRJTSW",
+        "Index": "17"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "S",
+        "Type": "RRJNSW",
+        "Index": "18"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "S",
+        "Type": "RRJWALSW_KL",
+        "Index": "19"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "S",
+        "Type": "RRJSSA15SW",
+        "Index": "20"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "S",
+        "Type": "RRJSSA18SW",
+        "Index": "21"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "S",
+        "Type": "SSWT",
+        "Index": "22"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "S",
+        "Type": "SSWN",
+        "Index": "23"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "S",
+        "Type": "SSWWA",
+        "Index": "24"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "S",
+        "Type": "SSWSSA15",
+        "Index": "25"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "S",
+        "Type": "SSWSSA18",
+        "Index": "26"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "S",
+        "Type": "SSWT",
+        "Index": "27"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "S",
+        "Type": "SSWWA",
+        "Index": "28"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "S",
+        "Type": "SSWSSA15",
+        "Index": "29"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "S",
+        "Type": "SSWSSA18",
+        "Index": "30"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "V",
+        "Type": "RRJVAT",
+        "Index": "31"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "V",
+        "Type": "RRJVAN",
+        "Index": "32"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "M12",
+        "color": "V",
+        "Type": "RRJVAWAL_KL",
+        "Index": "33"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "V",
+        "Type": "RRJVASSA15",
+        "Index": "34"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "M12",
+        "color": "V",
+        "Type": "RRJVASSA18",
+        "Index": "35"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "V",
+        "Type": "SVAT",
+        "Index": "36"
+    },
+    {
+        "Befehlsgeräte (BG)": "Meldeleuchte",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "V",
+        "Type": "SVAN",
+        "Index": "37"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": true,
+        "platform": "IOL/ASI",
+        "color": "V",
+        "Type": "SVAWA",
+        "Index": "38"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "V",
+        "Type": "SVASSA15",
+        "Index": "39"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "IOL/ASI",
+        "color": "V",
+        "Type": "SVASSA18",
+        "Index": "40"
+    },
+    {
+        "Befehlsgeräte (BG)": "Drucktaste",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "V",
+        "Type": "SVAT",
+        "Index": "41"
+    },
+    {
+        "Befehlsgeräte (BG)": "Wahlschalter",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "V",
+        "Type": "SVAWA",
+        "Index": "42"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "V",
+        "Type": "SVASSA15",
+        "Index": "43"
+    },
+    {
+        "Befehlsgeräte (BG)": "Schlüsselschalter 2-Stellung",
+        "hasLighting": false,
+        "platform": "Funk",
+        "color": "V",
+        "Type": "SVASSA18",
+        "Index": "44"
+    }
+]
